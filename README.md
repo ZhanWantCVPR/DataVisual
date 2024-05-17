@@ -9,3 +9,8 @@ VariousAttr_To_Churn_Visual_Other_Chart.py
 train.py
 predict.py
 dataset - WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+The visualization report can be obtained in ：https://pan.baidu.com/s/1mBOxdRIuJS7KKo7_iaGquA (psword:6666)
+
+
+
