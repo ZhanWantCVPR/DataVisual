@@ -10,7 +10,4 @@ train.py
 predict.py
 dataset - WA_Fn-UseC_-Telco-Customer-Churn.csv
 
-The visualization report can be obtained in ：https://pan.baidu.com/s/1mBOxdRIuJS7KKo7_iaGquA (psword:6666)
-
-
-
+The visualization report can be obtained in ：[https://pan.baidu.com/s/1mBOxdRIuJS7KKo7_iaGquA](https://pan.baidu.com/s/1bOznpLXJD2Ea8_WwvtrWGg) (psword:6666)
